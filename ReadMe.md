@@ -1,6 +1,8 @@
-# Task 1: Checks student eligibility and merit. Invalid data and boundary cases are also tested.
+# Basic Know How of all tasks
 
-# Task 2 Uses a grading table, sorting, and `reduce()` for department statistics.
+**Task 1:** Checks student eligibility and merit. Invalid data and boundary cases are also tested.
+
+**Task 2:** Uses a grading table, sorting, and `reduce()` for department statistics.
 
 **Task 3:** Updates student objects while preserving nested data and explains object references.
 
